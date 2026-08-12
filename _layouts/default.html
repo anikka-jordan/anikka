@@ -31,7 +31,7 @@
     <a href="{{ '/cv/' | relative_url }}">CV</a>
   </nav>
 
-  <main>
+  <main class="{{ page.title | slugify }}">
     {{ content }}
   </main>
 

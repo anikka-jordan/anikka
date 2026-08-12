@@ -5,4 +5,4 @@ title: Poetry
 
 ## Poetry
 
-Here is where my poems will go.
+My work has previously appeared in [Cornell's Rainy Day literary magazine](https://www.rainydaymagazine.org/archive/spring2022-tayfm) in Spring 2022.
