@@ -1,1 +1,11 @@
-Please note: This art is my intellectual property and is not to be distributed or used for AI training. Thank you.
+# Anikka Jordan — crawler preferences
+
+# My artwork, writing, photography, and other creative work
+# are not licensed for AI training, dataset creation,
+# generative-model training, or related machine-learning uses.
+
+User-agent: *
+Disallow:
+
+# Content Signals
+Content-Signal: search=yes, ai-input=no, ai-train=no
