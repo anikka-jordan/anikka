@@ -25,4 +25,4 @@ Coming soon: reflections on science, creativity, life, and learning.
 
 ## CV
 
-[View CV (PDF)](/cv/Anikka_G_Jordan_CV_Updated_07_23_2026.pdf
+[View CV (PDF)](/cv/Anikka_G_Jordan_CV_Updated_07_23_2026.pdf)
