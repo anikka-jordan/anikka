@@ -4,5 +4,5 @@
 
 - standardize homepage
 
-- add links to PNAS paper
+- fix CV pdf rendering on mobile
 
